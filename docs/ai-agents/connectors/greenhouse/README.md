@@ -72,7 +72,7 @@ This example assumes you've already authenticated your connector with Airbyte. S
 from airbyte_agent_greenhouse import GreenhouseConnector
 
 connector = GreenhouseConnector(
-    external_user_id="<your-scoped-token>",
+    external_user_id="<your_external_user_id>",
     airbyte_client_id="<your-client-id>",
     airbyte_client_secret="<your-client-secret>"
 )
@@ -112,6 +112,6 @@ For the service's official API docs, see the [Greenhouse API reference](https://
 
 ## Version information
 
-- **Package version:** 0.17.57
-- **Connector version:** 0.1.3
-- **Generated with Connector SDK commit SHA:** 609c1d86c76b36ff699b57123a5a8c2050d958c3
+- **Package version:** 0.17.64
+- **Connector version:** 0.1.4
+- **Generated with Connector SDK commit SHA:** 71f48c102ce98c9298e5102761e740f0d97eb71b

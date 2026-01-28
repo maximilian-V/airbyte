@@ -1,5 +1,40 @@
 # Zendesk Support changelog
 
+## [0.18.68] - 2026-01-28
+- Updated connector definition (YAML version 0.1.9)
+- Source commit: 71f48c10
+- SDK version: 0.1.0
+
+## [0.18.67] - 2026-01-27
+- Updated connector definition (YAML version 0.1.9)
+- Source commit: 0f5e1914
+- SDK version: 0.1.0
+
+## [0.18.66] - 2026-01-27
+- Updated connector definition (YAML version 0.1.9)
+- Source commit: a01f6b16
+- SDK version: 0.1.0
+
+## [0.18.65] - 2026-01-27
+- Updated connector definition (YAML version 0.1.9)
+- Source commit: c9b05509
+- SDK version: 0.1.0
+
+## [0.18.64] - 2026-01-27
+- Updated connector definition (YAML version 0.1.8)
+- Source commit: 4bded58d
+- SDK version: 0.1.0
+
+## [0.18.63] - 2026-01-26
+- Updated connector definition (YAML version 0.1.8)
+- Source commit: 74809153
+- SDK version: 0.1.0
+
+## [0.18.62] - 2026-01-26
+- Updated connector definition (YAML version 0.1.8)
+- Source commit: b73c71e0
+- SDK version: 0.1.0
+
 ## [0.18.61] - 2026-01-24
 - Updated connector definition (YAML version 0.1.8)
 - Source commit: 609c1d86
